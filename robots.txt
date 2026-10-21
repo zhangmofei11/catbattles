@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://catbattles.site/sitemap.xml
